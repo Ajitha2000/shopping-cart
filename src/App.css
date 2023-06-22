@@ -1,0 +1,29 @@
+.header {
+  background-color: rgb(55, 0, 255);
+}
+.h2 {
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 255, 242);
+}
+.row {
+  padding-top: 2px;
+  padding-bottom: 5px;
+  justify-content: center;
+}
+.btn-1 {
+  background-color: rgb(128, 0, 79);
+  color: pink;
+  padding: 5px;
+  border: rgb(255, 255, 255);
+}
+.form-control {
+  background-color: rgb(192, 235, 255);
+  padding: 2px;
+}
+
+.border-9 {
+  border-radius: 20px;
+
+  margin-top: 20px;
+}
